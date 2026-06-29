@@ -55,7 +55,7 @@ I enjoy working with servers, containers, and automation systems to deploy stabl
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=halitergul&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=halitergl&theme=dark&hide_border=true" />
 
 </p>
 
@@ -65,7 +65,7 @@ I enjoy working with servers, containers, and automation systems to deploy stabl
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halitergul&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halitergl&theme=github_dark" />
 
 </p>
 
@@ -79,6 +79,6 @@ I enjoy working with servers, containers, and automation systems to deploy stabl
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=halitergul&style=for-the-badge&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=halitergl&style=for-the-badge&color=0e75b6" />
 
 </div>
