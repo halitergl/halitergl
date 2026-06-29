@@ -8,10 +8,10 @@
 
 ---
 
-### 💡 About
+### 💡 About Me
 
-I build modern web applications and scalable cloud infrastructure.  
-Interested in automation, DevOps systems and AI integrations.
+I build modern web applications and manage scalable server infrastructure.  
+Focused on backend systems, DevOps workflows and automation.
 
 ---
 
@@ -26,22 +26,27 @@ Interested in automation, DevOps systems and AI integrations.
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=halitergl&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halitergl&layout=compact&theme=transparent&hide_border=true" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=halitergl&theme=dark&hide_border=true" height="160"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halitergl&theme=github_dark" height="160"/>
+
 </p>
 
 ---
 
-### 🔥 Streak
+### ⚙️ Focus Areas
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=halitergl&theme=transparent&hide_border=true"/>
-</p>
+- Web Application Development  
+- Server & VPS Management  
+- Dockerized Infrastructure  
+- Reverse Proxy Systems (Nginx / Cloudflare)  
+- API Integration & Automation  
 
 ---
 
 <div align="center">
 
-> Turning ideas into scalable software.
+> "Build simple. Deploy stable. Scale smart."
 
 </div>
