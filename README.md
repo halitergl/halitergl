@@ -26,8 +26,8 @@ Interested in automation, DevOps systems and AI integrations.
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=halitergl&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halitergl&layout=compact&theme=transparent&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@ Interested in automation, DevOps systems and AI integrations.
 ### 🔥 Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=halitergl&theme=transparent&hide_border=true"/>
 </p>
 
 ---
