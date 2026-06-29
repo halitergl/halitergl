@@ -1,34 +1,23 @@
-<h2 align="left">Hi 👋! My name is Halit and I'm a Back-End Developer from Turkey</h2>
+<div align="center">
 
-###
+# Hi 👋, I'm Halit Ergul
 
-<img align="right" height="120" src="https://media.licdn.com/dms/image/C4D03AQFWVhgND7dmlA/profile-displayphoto-shrink_800_800/0/1604381016501?e=1692230400&v=beta&t=4PLvw5CPP8JbBVEqFw7HHsyKnid7reGYCysd3bIf8jc"  />
+### Full Stack Developer • DevOps • AI Enthusiast
 
-###
+Building scalable web applications, cloud infrastructure and AI-powered solutions.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,php,laravel,docker,linux,nginx,mysql,git,github,vscode" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="160"/>
+
+<br><br>
+
+> *"Turning ideas into scalable software."*
+
 </div>
-
-###
-
-<div align="left">
-  <a href="https://instagram.com/halitergl" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/halit-erg%C3%BCl-34b3a7188/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
